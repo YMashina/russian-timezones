@@ -1,0 +1,1003 @@
+{
+	"timezone": [{
+		"offset": "-11:00",
+		"label": "(GMT-11:00) Niue",
+		"tzCode": "Тихий океан/Ниуэ"
+	}, {
+		"offset": "-11:00",
+		"label": "(GMT-11:00) Pago Pago",
+		"tzCode": "Тихий океан/Паго_Паго"
+	}, {
+		"offset": "-10:00",
+		"label": "(GMT-10:00) Hawaii Time",
+		"tzCode": "Тихоокеанский регион/Гонолулу"
+	}, {
+		"offset": "-10:00",
+		"label": "(GMT-10:00) Rarotonga",
+		"tzCode": "Тихий океан/Раротонга"
+	}, {
+		"offset": "-10:00",
+		"label": "(GMT-10:00) Tahiti",
+		"tzCode": "Тихий океан / Таити"
+	}, {
+		"offset": "-09:30",
+		"label": "(GMT-09:30) Marquesas",
+		"tzCode": "Тихий океан/Маркизские острова"
+	}, {
+		"offset": "-09:00",
+		"label": "(GMT-09:00) Alaska Time",
+		"tzCode": "Америка/Анкоридж"
+	}, {
+		"offset": "-09:00",
+		"label": "(GMT-09:00) Gambier",
+		"tzCode": "Пасифик/Гамбье"
+	}, {
+		"offset": "-08:00",
+		"label": "(GMT-08:00) Pacific Time",
+		"tzCode": "Америка/Лос-Анджелес"
+	}, {
+		"offset": "-08:00",
+		"label": "(GMT-08:00) Pacific Time - Tijuana",
+		"tzCode": "Америка/Тихуана"
+	}, {
+		"offset": "-08:00",
+		"label": "(GMT-08:00) Pacific Time - Vancouver",
+		"tzCode": "Америка/Ванкувер"
+	}, {
+		"offset": "-08:00",
+		"label": "(GMT-08:00) Pacific Time - Whitehorse",
+		"tzCode": "Америка/Уайтхорс"
+	}, {
+		"offset": "-08:00",
+		"label": "(GMT-08:00) Pitcairn",
+		"tzCode": "Тихоокеанский регион/Питкэрн"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time",
+		"tzCode": "Америка/Денвер"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time - Arizona",
+		"tzCode": "Америка/Феникс"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time - Chihuahua, Mazatlan",
+		"tzCode": "Америка/Мазатлан"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time - Dawson Creek",
+		"tzCode": "Америка/Доусон_Крик"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time - Edmonton",
+		"tzCode": "Америка/Эдмонтон"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time - Hermosillo",
+		"tzCode": "Америка/Эрмосильо"
+	}, {
+		"offset": "-07:00",
+		"label": "(GMT-07:00) Mountain Time - Yellowknife",
+		"tzCode": "Америка/Йеллоунайф"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Belize",
+		"tzCode": "Америка/Белиз"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Central Time",
+		"tzCode": "Америка/Чикаго"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Central Time - Mexico City",
+		"tzCode": "Америка/Мехико_Город"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Central Time - Regina",
+		"tzCode": "Америка / Королева"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Central Time - Tegucigalpa",
+		"tzCode": "Америка/Тегусигальпа"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Central Time - Winnipeg",
+		"tzCode": "Америка/Виннипег"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Costa Rica",
+		"tzCode": "Америка / Коста-Рика"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) El Salvador",
+		"tzCode": "Америка/Сальвадор"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Galapagos",
+		"tzCode": "Тихий океан/Галапагосские острова"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Guatemala",
+		"tzCode": "Америка/Гватемала"
+	}, {
+		"offset": "-06:00",
+		"label": "(GMT-06:00) Managua",
+		"tzCode": "Америка/Манагуа"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) America Cancun",
+		"tzCode": "Америка/Канкун"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Bogota",
+		"tzCode": "Америка/Богота"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Easter Island",
+		"tzCode": "Тихоокеанский/Пасхальный"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Eastern Time",
+		"tzCode": "Америка/Нью-Йорк"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Eastern Time - Iqaluit",
+		"tzCode": "Америка/Икалуит"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Eastern Time - Toronto",
+		"tzCode": "Америка/Торонто"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Guayaquil",
+		"tzCode": "Америка/Гуаякиль"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Havana",
+		"tzCode": "Америка/Гавана"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Jamaica",
+		"tzCode": "Америка/Ямайка"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Lima",
+		"tzCode": "Америка/Лима"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Nassau",
+		"tzCode": "Америка/Нассау"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Panama",
+		"tzCode": "Америка/Панама"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Port-au-Prince",
+		"tzCode": "Америка/Порт-о-Пренс"
+	}, {
+		"offset": "-05:00",
+		"label": "(GMT-05:00) Rio Branco",
+		"tzCode": "Америка/Рио_Бранко"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Atlantic Time - Halifax",
+		"tzCode": "Америка/Галифакс"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Barbados",
+		"tzCode": "Америка/Барбадос"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Bermuda",
+		"tzCode": "Атлантика/Бермуды"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Boa Vista",
+		"tzCode": "Америка/Boa_Vista"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Caracas",
+		"tzCode": "Америка/Каракас"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Curacao",
+		"tzCode": "Америка/Кюрасао"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Grand Turk",
+		"tzCode": "Америка/Grand_Turk"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Guyana",
+		"tzCode": "Америка/Гайана"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) La Paz",
+		"tzCode": "Америка/Ла-Пас"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Manaus",
+		"tzCode": "Америка/Манаус"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Martinique",
+		"tzCode": "Америка/Мартиника"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Port of Spain",
+		"tzCode": "Америка/Порт_оф_Спейн"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Porto Velho",
+		"tzCode": "Америка/Порто_Велью"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Puerto Rico",
+		"tzCode": "Америка/Пуэрто_Рико"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Santo Domingo",
+		"tzCode": "Америка / Санто-Доминго"
+	}, {
+		"offset": "-04:00",
+		"label": "(GMT-04:00) Thule",
+		"tzCode": "Америка/Туле"
+	}, {
+		"offset": "-03:30",
+		"label": "(GMT-03:30) Newfoundland Time - St. Johns",
+		"tzCode": "Америка/Сент-Джонс"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Araguaina",
+		"tzCode": "Америка/Арагуайна"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Asuncion",
+		"tzCode": "Америка/Асунсьон"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Belem",
+		"tzCode": "Америка/Белен"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Buenos Aires",
+		"tzCode": "Америка/Аргентина/Буэнос_Айрес"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Campo Grande",
+		"tzCode": "Америка/Кампо_Гранде"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Cayenne",
+		"tzCode": "Америка/Кайенна"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Cuiaba",
+		"tzCode": "Америка / Куяба"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Fortaleza",
+		"tzCode": "Америка / Крепость"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Godthab",
+		"tzCode": "Америка/Готхаб"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Maceio",
+		"tzCode": "Америка/Масейо"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Miquelon",
+		"tzCode": "Америка/Микелон"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Montevideo",
+		"tzCode": "Америка/Монтевидео"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Palmer",
+		"tzCode": "Антарктида/Палмер"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Paramaribo",
+		"tzCode": "Америка/Парамарибо"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Punta Arenas",
+		"tzCode": "Америка/Пунта_Аренас"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Recife",
+		"tzCode": "Америка/Ресифи"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Rothera",
+		"tzCode": "Антарктида/Ротера"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Salvador",
+		"tzCode": "Америка / Баия"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Santiago",
+		"tzCode": "Америка/Сантьяго"
+	}, {
+		"offset": "-03:00",
+		"label": "(GMT-03:00) Stanley",
+		"tzCode": "Атлантика/Стэнли"
+	}, {
+		"offset": "-02:00",
+		"label": "(GMT-02:00) Noronha",
+		"tzCode": "Америка/Норонья"
+	}, {
+		"offset": "-02:00",
+		"label": "(GMT-02:00) Sao Paulo",
+		"tzCode": "Америка/Сан-Паулу"
+	}, {
+		"offset": "-02:00",
+		"label": "(GMT-02:00) South Georgia",
+		"tzCode": "Атлантика/Южная_Джорджия"
+	}, {
+		"offset": "-01:00",
+		"label": "(GMT-01:00) Azores",
+		"tzCode": "Атлантика/Азорские острова"
+	}, {
+		"offset": "-01:00",
+		"label": "(GMT-01:00) Cape Verde",
+		"tzCode": "Атлантика/Кабо-Верде"
+	}, {
+		"offset": "-01:00",
+		"label": "(GMT-01:00) Scoresbysund",
+		"tzCode": "Америка/Скорсбисунд"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Abidjan",
+		"tzCode": "Африка/Абиджан"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Accra",
+		"tzCode": "Африка/Аккра"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Bissau",
+		"tzCode": "Африка/Бисау"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Canary Islands",
+		"tzCode": "Атлантический/Канарский"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Casablanca",
+		"tzCode": "Африка/Касабланка"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Danmarkshavn",
+		"tzCode": "Америка / Данмарксхавн"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Dublin",
+		"tzCode": "Европа/Дублин"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) El Aaiun",
+		"tzCode": "Африка / Эль_Аюн"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Faeroe",
+		"tzCode": "Атлантика/Фареры"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) GMT (no daylight saving)",
+		"tzCode": "И т.д./GMT"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Lisbon",
+		"tzCode": "Европа/Лиссабон"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) London",
+		"tzCode": "Европа/Лондон"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Monrovia",
+		"tzCode": "Африка/Монровия"
+	}, {
+		"offset": "+00:00",
+		"label": "(GMT+00:00) Reykjavik",
+		"tzCode": "Атлантик/Рейкьявик"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Algiers",
+		"tzCode": "Африка/Алжир"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Amsterdam",
+		"tzCode": "Европа/Амстердам"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Andorra",
+		"tzCode": "Европа/Андорра"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Berlin",
+		"tzCode": "Европа/Берлин"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Brussels",
+		"tzCode": "Европа/Брюссель"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Budapest",
+		"tzCode": "Европа/Будапешт"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Central European Time - Belgrade",
+		"tzCode": "Европа/Белград"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Central European Time - Prague",
+		"tzCode": "Европа/Прага"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Ceuta",
+		"tzCode": "Африка/Сеута"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Copenhagen",
+		"tzCode": "Европа/Копенгаген"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Gibraltar",
+		"tzCode": "Европа/Гибралтар"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Lagos",
+		"tzCode": "Африка/Лагос"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Luxembourg",
+		"tzCode": "Европа/Люксембург"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Madrid",
+		"tzCode": "Европа/Мадрид"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Malta",
+		"tzCode": "Европа/Мальта"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Monaco",
+		"tzCode": "Европа/Монако"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Ndjamena",
+		"tzCode": "Африка/Нджамена"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Oslo",
+		"tzCode": "Европа / Осло"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Paris",
+		"tzCode": "Европа/Париж"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Rome",
+		"tzCode": "Европа/Рим"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Stockholm",
+		"tzCode": "Европа / Стокгольм"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Tirane",
+		"tzCode": "Европа / Тиран"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Tunis",
+		"tzCode": "Африка/Тунис"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Vienna",
+		"tzCode": "Европа/Вена"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Warsaw",
+		"tzCode": "Европа/Варшава"
+	}, {
+		"offset": "+01:00",
+		"label": "(GMT+01:00) Zurich",
+		"tzCode": "Европа/Цюрих"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Amman",
+		"tzCode": "Азия/Амман"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Athens",
+		"tzCode": "Европа/Афины"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Beirut",
+		"tzCode": "Азия/Бейрут"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Bucharest",
+		"tzCode": "Европа/Бухарест"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Cairo",
+		"tzCode": "Африка/Каир"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Chisinau",
+		"tzCode": "Европа / Кишинев"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Damascus",
+		"tzCode": "Азия/Дамаск"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Gaza",
+		"tzCode": "Азия/Газа"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Helsinki",
+		"tzCode": "Европа / Хельсинки"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Jerusalem",
+		"tzCode": "Азия/Иерусалим"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Johannesburg",
+		"tzCode": "Африка/Йоханнесбург"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Khartoum",
+		"tzCode": "Африка/Хартум"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Kiev",
+		"tzCode": "Европа/Киев"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Maputo",
+		"tzCode": "Африка/Мапуту"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Moscow-01 - Kaliningrad",
+		"tzCode": "Эуропе/Калининград"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Nicosia",
+		"tzCode": "Азия/Никосия"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Riga",
+		"tzCode": "Европа/Рига"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Sofia",
+		"tzCode": "Европа/София"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Tallinn",
+		"tzCode": "Европа/Таллинн"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Tripoli",
+		"tzCode": "Африка/Триполи"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Vilnius",
+		"tzCode": "Европа / Вильнюс"
+	}, {
+		"offset": "+02:00",
+		"label": "(GMT+02:00) Windhoek",
+		"tzCode": "Африка/Виндхук"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Baghdad",
+		"tzCode": "Азия/Багдад"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Istanbul",
+		"tzCode": "Европа/Стамбул"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Minsk",
+		"tzCode": "Европа/Минск"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Moscow+00 - Moscow",
+		"tzCode": "Европа/Москва"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Nairobi",
+		"tzCode": "Африка/Найроби"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Qatar",
+		"tzCode": "Азия/Катар"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Riyadh",
+		"tzCode": "Азия/Рияд"
+	}, {
+		"offset": "+03:00",
+		"label": "(GMT+03:00) Syowa",
+		"tzCode": "Антарктида/Сёва"
+	}, {
+		"offset": "+03:30",
+		"label": "(GMT+03:30) Tehran",
+		"tzCode": "Азия/Тегеран"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Baku",
+		"tzCode": "Азиатско/Баку"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Dubai",
+		"tzCode": "Азия/Дубай"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Mahe",
+		"tzCode": "Индийский/Маэ"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Mauritius",
+		"tzCode": "Индийский/маврикийский"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Moscow+01 - Samara",
+		"tzCode": "Европа/Самара"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Reunion",
+		"tzCode": "Индийский/Реюньон"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Tbilisi",
+		"tzCode": "Ася/Тбилиси"
+	}, {
+		"offset": "+04:00",
+		"label": "(GMT+04:00) Yerevan",
+		"tzCode": "Ася/Ереван"
+	}, {
+		"offset": "+04:30",
+		"label": "(GMT+04:30) Kabul",
+		"tzCode": "азия/до"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Aqtau",
+		"tzCode": "Азия/Актау"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Aqtobe",
+		"tzCode": "Азия/Актобе"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Ashgabat",
+		"tzCode": "Азия/Ашхабад"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Dushanbe",
+		"tzCode": "Ася/Душанбе"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Karachi",
+		"tzCode": "Азия/Карачи"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Kerguelen",
+		"tzCode": "Индийский/Кергелен"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Maldives",
+		"tzCode": "Индийский/Мальдивы"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Mawson",
+		"tzCode": "Антарктида/Моусон"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Moscow+02 - Yekaterinburg",
+		"tzCode": "Ася/Екатеринбург"
+	}, {
+		"offset": "+05:00",
+		"label": "(GMT+05:00) Tashkent",
+		"tzCode": "Азия/Ташкент"
+	}, {
+		"offset": "+05:30",
+		"label": "(GMT+05:30) Colombo",
+		"tzCode": "Азия / Коломбо"
+	}, {
+		"offset": "+05:30",
+		"label": "(GMT+05:30) India Standard Time",
+		"tzCode": "Азия/Калькутта"
+	}, {
+		"offset": "+05:45",
+		"label": "(GMT+05:45) Kathmandu",
+		"tzCode": "Азия/Катманду"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Almaty",
+		"tzCode": "Азия/Алматы"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Bishkek",
+		"tzCode": "Ася/Бишкек"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Chagos",
+		"tzCode": "Индийский/чагос"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Dhaka",
+		"tzCode": "Азия/Дакка"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Moscow+03 - Omsk",
+		"tzCode": "Ася/Омск"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Thimphu",
+		"tzCode": "Азия/Тхимпху"
+	}, {
+		"offset": "+06:00",
+		"label": "(GMT+06:00) Vostok",
+		"tzCode": "Антарктика/Восток"
+	}, {
+		"offset": "+06:30",
+		"label": "(GMT+06:30) Cocos",
+		"tzCode": "Индийский/Кокосовые"
+	}, {
+		"offset": "+06:30",
+		"label": "(GMT+06:30) Rangoon",
+		"tzCode": "Азия/Янгон"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Bangkok",
+		"tzCode": "Азия/Бангкок"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Christmas",
+		"tzCode": "Индийский/Рождество"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Davis",
+		"tzCode": "Антарктида/Дэвис"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Hanoi",
+		"tzCode": "Азия / Сайгон"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Hovd",
+		"tzCode": "Азия/Ховд"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Jakarta",
+		"tzCode": "Азия/Джакарта"
+	}, {
+		"offset": "+07:00",
+		"label": "(GMT+07:00) Moscow+04 - Krasnoyarsk",
+		"tzCode": "Ася/Красноярск"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Brunei",
+		"tzCode": "Азия / Бруней"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) China Time - Beijing",
+		"tzCode": "Азия/Шанхай"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Choibalsan",
+		"tzCode": "Азия/Чойбалсан"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Hong Kong",
+		"tzCode": "Азия / Гонконг"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Kuala Lumpur",
+		"tzCode": "Азия/Куала-Лумпур"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Macau",
+		"tzCode": "Азия/Макао"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Makassar",
+		"tzCode": "Азия/Макассар"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Manila",
+		"tzCode": "Азия/Манила"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Moscow+05 - Irkutsk",
+		"tzCode": "Ася/Иркутск"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Singapore",
+		"tzCode": "Азия/Сингапур"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Taipei",
+		"tzCode": "Азия / Тайбэй"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Ulaanbaatar",
+		"tzCode": "Азия/Улан-Батор"
+	}, {
+		"offset": "+08:00",
+		"label": "(GMT+08:00) Western Time - Perth",
+		"tzCode": "Австралия/Перт"
+	}, {
+		"offset": "+08:30",
+		"label": "(GMT+08:30) Pyongyang",
+		"tzCode": "Азия/Пхеньян"
+	}, {
+		"offset": "+09:00",
+		"label": "(GMT+09:00) Dili",
+		"tzCode": "Азия/Нет"
+	}, {
+		"offset": "+09:00",
+		"label": "(GMT+09:00) Jayapura",
+		"tzCode": "Азия/Джаяпура"
+	}, {
+		"offset": "+09:00",
+		"label": "(GMT+09:00) Moscow+06 - Yakutsk",
+		"tzCode": "Ася/Якутск"
+	}, {
+		"offset": "+09:00",
+		"label": "(GMT+09:00) Palau",
+		"tzCode": "Тихий океан / Палау"
+	}, {
+		"offset": "+09:00",
+		"label": "(GMT+09:00) Seoul",
+		"tzCode": "Азия/Сеул"
+	}, {
+		"offset": "+09:00",
+		"label": "(GMT+09:00) Tokyo",
+		"tzCode": "Азия / Токио"
+	}, {
+		"offset": "+09:30",
+		"label": "(GMT+09:30) Central Time - Darwin",
+		"tzCode": "Австралия/Дарвин"
+	}, {
+		"offset": "+10:00",
+		"label": "(GMT+10:00) Dumont DUrville ",
+		"tzCode": "Антарктида/Дюмон-ДЮрвиль"
+	}, {
+		"offset": "+10:00",
+		"label": "(GMT+10:00) Eastern Time - Brisbane",
+		"tzCode": "Австралия/Брисбен"
+	}, {
+		"offset": "+10:00",
+		"label": "(GMT+10:00) Guam",
+		"tzCode": "Тихий океан/Гуам"
+	}, {
+		"offset": "+10:00",
+		"label": "(GMT+10:00) Moscow+07 - Vladivostok",
+		"tzCode": "Ася/Владивосток"
+	}, {
+		"offset": "+10:00",
+		"label": "(GMT+10:00) Port Moresby",
+		"tzCode": "Пасифик/Порт-Морсби"
+	}, {
+		"offset": "+10:00",
+		"label": "(GMT+10:00) Truk",
+		"tzCode": "Тихий океан/Чуук"
+	}, {
+		"offset": "+10:30",
+		"label": "(GMT+10:30) Central Time - Adelaide",
+		"tzCode": "Австралия/Аделаида"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Casey",
+		"tzCode": "Антарктида/Кейси"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Eastern Time - Hobart",
+		"tzCode": "Австралия/Хобарт"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Eastern Time - Melbourne, Sydney",
+		"tzCode": "Австралия/Сидней"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Efate",
+		"tzCode": "Пасифик/Эфате"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Guadalcanal",
+		"tzCode": "Тихий океан/Гуадалканал"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Kosrae",
+		"tzCode": "Тихий океан / Косраэ"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Moscow+08 - Magadan",
+		"tzCode": "Ася/Магадан"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Norfolk",
+		"tzCode": "Пасифик / Норфолк"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Noumea",
+		"tzCode": "Тихий океан/Нумеа"
+	}, {
+		"offset": "+11:00",
+		"label": "(GMT+11:00) Ponape",
+		"tzCode": "Тихий океан/Понпеи"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Funafuti",
+		"tzCode": "Тихий океан/Фунафути"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Kwajalein",
+		"tzCode": "Пасифик/Кваджалейн"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Majuro",
+		"tzCode": "Тихий океан/Маджуро"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Moscow+09 - Petropavlovsk-Kamchatskiy",
+		"tzCode": "Азия / Камчатка"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Nauru",
+		"tzCode": "Тихий океан / Науру"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Tarawa",
+		"tzCode": "Тихий океан/Тарава"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Wake",
+		"tzCode": "Тихий океан/Пробуждение"
+	}, {
+		"offset": "+12:00",
+		"label": "(GMT+12:00) Wallis",
+		"tzCode": "Пасифик / Уоллис"
+	}, {
+		"offset": "+13:00",
+		"label": "(GMT+13:00) Auckland",
+		"tzCode": "Тихий океан / Окленд"
+	}, {
+		"offset": "+13:00",
+		"label": "(GMT+13:00) Enderbury",
+		"tzCode": "Пасифик/Эндербери"
+	}, {
+		"offset": "+13:00",
+		"label": "(GMT+13:00) Fakaofo",
+		"tzCode": "Тихий океан/Факаофо"
+	}, {
+		"offset": "+13:00",
+		"label": "(GMT+13:00) Fiji",
+		"tzCode": "Тихий океан / Фиджи"
+	}, {
+		"offset": "+13:00",
+		"label": "(GMT+13:00) Tongatapu",
+		"tzCode": "Тихий океан/Тонгатапу"
+	}, {
+		"offset": "+14:00",
+		"label": "(GMT+14:00) Apia",
+		"tzCode": "Тихий океан/Апиа"
+	}, {
+		"offset": "+14:00",
+		"label": "(GMT+14:00) Kiritimati",
+		"tzCode": "Тихий океан/Киритимати"
+	}]
+}
